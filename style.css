@@ -1,6 +1,6 @@
 body {
 	color:#fff;
-	background:#333;
+	background:purple;
 	font-family:Courier;
 	width:960px;
 	margin:auto;
@@ -14,8 +14,8 @@ header, main, footer {
 	
 }
 
-header, h1 {
-	color:green
+header, main h1 {
+	color:green;
 }
 
 a, a:visited {
@@ -44,7 +44,7 @@ a:hover {
 	height:30px;
 	width:110px;
 	text-align:center;
-	font-size:13px;
+	font-size:20px;
 	border: 2px solid white;
 	border-radius:10px;
 }
