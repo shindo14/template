@@ -1,6 +1,7 @@
 body {
 	color:#fff;
 	background:purple;
+	background
 	background-image:url(http://brucerosenstein.com/wp-content/uploads/2013/07/Summer-happiness-photo.jpg);
 	font-family:Courier;
 	width:960px;
@@ -18,7 +19,9 @@ header, main, footer {
 header, h1 {
 	color:green;
 }
-
+p{ 
+	color:black;
+}
 a, a:visited {
 	color:#c0c0c0;
 	text-decoration:none;
