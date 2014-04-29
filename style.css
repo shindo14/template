@@ -16,10 +16,11 @@ header, main, footer {
 }
 
 header, h1 {
-	color:red;
+	color:purple;
 }
 p{ 
 	color:black;
+	
 }
 a, a:visited {
 	color:#c0c0c0;
